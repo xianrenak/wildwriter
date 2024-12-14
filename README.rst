@@ -7,15 +7,9 @@ Wild Writer
 
 注意： 不要下载或clone该repo，这是用来做web页面部署的，下载到本地也不能运行。
 
-使用以下链接进行下载
+使用 Release 链接进行下载对应的版本
 
-
-
-Windows版：  https://xianrenak.github.io/wildwriter
-
-Linux版：  https://xianrenak.github.io/wildwriter
-
-Mac版：  https://xianrenak.github.io/wildwriter
+https://github.com/xianrenak/wildwriter/releases
 
 在线体验
 
