@@ -1,7 +1,7 @@
 Wild Writer
 ----------
 
-狂野打字
+狂野打字 0.0.2
 
 ----
 
@@ -10,11 +10,16 @@ Wild Writer
 使用以下链接进行下载
 
 
-Web版: https://xianrenak.github.io/wildwriter
 
 Windows版：  https://xianrenak.github.io/wildwriter
+
 Linux版：  https://xianrenak.github.io/wildwriter
+
 Mac版：  https://xianrenak.github.io/wildwriter
+
+在线体验
+
+Web版: https://xianrenak.github.io/wildwriter
 
 
 ----
