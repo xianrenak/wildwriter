@@ -3,7 +3,7 @@ Wild Writer
 
 0.0.3 at https://github.com/xianrenak/wildtype
 
-this repo is not updated as English name changed.
+this repo is not updated as English name changed to WildType
 
 
 狂野打字 0.0.2
