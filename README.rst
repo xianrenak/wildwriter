@@ -1,7 +1,9 @@
 Wild Writer
 ----------
 
-0.0.3 at https://github.com/xianrenak/wildtype
+0.0.3 更新在 https://github.com/xianrenak/wildtype
+
+这个Repo只有0.0.2的下载地址，因为英文名进行了变更
 
 this repo is not updated as English name changed to WildType
 
