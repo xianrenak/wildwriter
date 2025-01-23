@@ -8,8 +8,9 @@ Wild Writer
 this repo is not updated as English name changed to WildType
 
 
-狂野打字 0.0.2
+------------
 
+狂野打字 0.0.2
 ----
 
 注意： 不要下载或clone该repo，这是用来做web页面部署的，下载到本地也不能运行。
